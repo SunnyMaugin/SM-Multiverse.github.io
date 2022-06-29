@@ -1,0 +1,7 @@
+/* Add your css here */
+
+@media(min-width: 768px) {
+  .getintouch-input {
+    width: 50%;
+  }
+}
